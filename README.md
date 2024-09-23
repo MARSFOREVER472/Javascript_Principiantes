@@ -1,3 +1,3 @@
 # **_Javascript_Principiantes_**
 
-_JavaScript Practice Exercises For Beginners!_
+**_JavaScript Practice Exercises For Beginners!_**
