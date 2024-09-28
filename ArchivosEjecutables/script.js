@@ -14,5 +14,17 @@
 const isEqualTo100 = (a, b) => a === 100 || b
 === 100;
 
+// CASE 1:
+
 console.log(isEqualTo100(100,0)); // PRINT THE SUM OF THIS 2 NUMBERS EQUALS TO 100 AND RETURNS TRUE (a,b).
 console.log(isEqualTo100(0,100)); 
+
+// CASE 2:
+
+console.log(isEqualTo100(10,0)); // PRINT THE SUM OF THIS 2 NUMBERS EQUALS TO 100 AND RETURNS TRUE (a,b).
+console.log(isEqualTo100(0,10)); 
+
+// CASE 3:
+
+console.log(isEqualTo100(20,80)); // PRINT THE SUM OF THIS 2 NUMBERS EQUALS TO 100 AND RETURNS TRUE (a,b).
+console.log(isEqualTo100(50,50)); 
