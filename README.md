@@ -6,4 +6,4 @@
 
 - **_In these JavaScript practice exercises, you'll get the chance to be given a problem, have a go at solving it and then run through a possible solution to check your own._**
 
-- _JavaScript for beginners can be a bit of a stab in the dark to know whether your code is correct and the truth is that, for most javascript problems, there isn't a right or wrong way of doing it._
+- **_JavaScript for beginners can be a bit of a stab in the dark to know whether your code is correct and the truth is that, for most javascript problems, there isn't a right or wrong way of doing it._**
