@@ -28,3 +28,17 @@ console.log(isEqualTo100(0,10));
 
 console.log(isEqualTo100(20,80)); // PRINT THE SUM OF THIS 2 NUMBERS EQUALS TO 100 AND RETURNS TRUE (a,b).
 console.log(isEqualTo100(50,50)); 
+
+/*
+    Exercise 2:
+    -----------
+
+    Write a Javascript Program to get the
+    extension of a filename.
+*/
+
+const getFileExtension = (str) => str.slice
+(str.lastIndexOf('.'));
+
+console.log(getFileExtension('index.html'));
+console.log(getFileExtension('webpack.config.js'));
