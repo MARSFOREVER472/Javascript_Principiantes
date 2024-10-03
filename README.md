@@ -10,4 +10,4 @@
 
 - **_But for some JavaScript practice problems, there is usually a short solution which can be achieved with JavaScript function and that is generally the aim of these JavaScript practice exercises for beginners._**
 
--It can also be good for you to see someone else break down a problem and code it in JavaScript and compare it with your own approach to a problem.
+- It can also be good for you to see someone else break down a problem and code it in JavaScript and compare it with your own approach to a problem.
