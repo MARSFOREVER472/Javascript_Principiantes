@@ -9,3 +9,4 @@
 - **_JavaScript for beginners can be a bit of a stab in the dark to know whether your code is correct and the truth is that, for most javascript problems, there isn't a right or wrong way of doing it._**
 
 - **_But for some JavaScript practice problems, there is usually a short solution which can be achieved with JavaScript function and that is generally the aim of these JavaScript practice exercises for beginners._**
+It can also be good for you to see someone else break down a problem and code it in JavaScript and compare it with your own approach to a problem.
