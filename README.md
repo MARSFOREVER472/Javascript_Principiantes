@@ -18,6 +18,6 @@
 
 - JavaScript para principiantes puede ser una puñalada en la oscuridad para saber si su código es correcto y la verdad es que, para la mayoría de los problemas de JavaScript, no existe una forma correcta o incorrecta de hacerlo.
 
-Pero para algunos problemas de práctica de JavaScript, generalmente existe una solución breve que se puede lograr con la función de JavaScript y ese es generalmente el objetivo de estos ejercicios de práctica de JavaScript para principiantes.
+- Pero para algunos problemas de práctica de JavaScript, generalmente existe una solución breve que se puede lograr con la función de JavaScript y ese es generalmente el objetivo de estos ejercicios de práctica de JavaScript para principiantes.
 
 También puede ser bueno para usted ver a otra persona analizar un problema, codificarlo en JavaScript y compararlo con su propio enfoque ante un problema.
