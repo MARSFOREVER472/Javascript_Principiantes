@@ -14,7 +14,7 @@
 
 - Es importante practicar tus habilidades de codificación JavaScript, pero puede ser complicado encontrar problemas decentes para resolver y luego siempre te preguntas: ¿existe una manera diferente o mejor de resolver el problema?
 
-En estos ejercicios de práctica de JavaScript, tendrás la oportunidad de que se te presente un problema, intentarás resolverlo y luego analizarás una posible solución para comprobar la tuya.
+- En estos ejercicios de práctica de JavaScript, tendrás la oportunidad de que se te presente un problema, intentarás resolverlo y luego analizarás una posible solución para comprobar la tuya.
 
 JavaScript para principiantes puede ser una puñalada en la oscuridad para saber si su código es correcto y la verdad es que, para la mayoría de los problemas de JavaScript, no existe una forma correcta o incorrecta de hacerlo.
 
