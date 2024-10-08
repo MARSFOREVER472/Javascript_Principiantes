@@ -11,6 +11,7 @@
 - **_But for some JavaScript practice problems, there is usually a short solution which can be achieved with JavaScript function and that is generally the aim of these JavaScript practice exercises for beginners._**
 
 - **_It can also be good for you to see someone else break down a problem and code it in JavaScript and compare it with your own approach to a problem._**
+- Traducido del español!
 
 - **_Es importante practicar tus habilidades de codificación JavaScript, pero puede ser complicado encontrar problemas decentes para resolver y luego siempre te preguntas: ¿existe una manera diferente o mejor de resolver el problema?_**
 
