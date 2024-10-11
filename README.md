@@ -14,7 +14,7 @@
 
 **_Traducido del español!_**
 
-- **_Es importante practicar mediante tus habilidades de codificación en JavaScript, pero  generalmente puede ser complicado buscar problemas decentes para resolver y luego siempre te preguntas: ¿existe una manera diferente o mejor de resolver el problema?_**
+- **_Es importante practicar mediante tus habilidades de codificación en JavaScript, pero  generalmente puede ser complicado buscar problemas decentes para resolver y luego siempre te preguntas: ¿Existe una manera diferente o mejor de resolver el problema?_**
 
 - **_En estos ejercicios en práctica de JavaScript, tendrás la oportunidad de que se te presente un problema, intentarás resolverlo y luego analizarás una posible solución para comprobar la tuya._**
 
