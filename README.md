@@ -22,4 +22,4 @@
 
 - **_Pero para algunos problemas de práctica de JavaScript, generalmente existe una breve solución que se puede lograr con la función de JavaScript y esto es generalmente el objetivo de estos ejercicios en práctica con JavaScript para principiantes._**
 
-- **_También puede ser bueno para usted ver a otra persona analizar un problema, codificarlo con JavaScript y compararlo con su propio enfoque ante un problema._**
+- **_También puede ser muy bueno para usted ver a otra persona analizar un problema, codificarlo con JavaScript y compararlo con su propio enfoque ante un problema._**
