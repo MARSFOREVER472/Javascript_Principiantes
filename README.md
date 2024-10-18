@@ -12,7 +12,7 @@
 
 - **_It can also be very good for you to see someone else break down a problem and code it in JavaScript and compare it with your own approach to another problem._**
 
-**_Traducido del español_**
+**_Traducido del español:_**
 
 - **_Esto es muy importante practicar mediante tus habilidades de codificación en JavaScript, pero  generalmente puede ser complicado buscar problemas decentes para resolver y luego siempre te preguntas: ¿Existe alguna forma diferente o algo mucho mejor de resolver el problema?_**
 
