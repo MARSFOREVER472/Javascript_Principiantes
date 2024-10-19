@@ -1,4 +1,4 @@
-# **_Javascriptpara_Principiantes_**
+# **_Javascript_para_Principiantes_**
 
 ## **_JavaScript Practice Exercises For Beginners!_**
 
