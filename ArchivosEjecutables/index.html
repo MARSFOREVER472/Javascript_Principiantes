@@ -77,6 +77,27 @@
    
     <h2>console.log(moveCharsForward('abcd'));</h2>
 
+    <h2>/* Exercise 4:</h2>
+    <h2>-----------</h2>
+     
+    <h2>Write a Javascript program to get the current</h2>
+    <h2>date.</h2>
+     
+    <h2>Expected Output:</h2>
+    <h2>mm-dd-yyyy, mm/dd/yyyy or dd-mm-yyyy.</h2>
+     
+    <h2>*/</h2>
+     
+    <h2>const formatDate = (date = new Date()) => {</h2>
+    <h2>const days = date.getDay();</h2>
+    <h2>const months = date.getMonth();</h2>
+    <h2>const years = date.getFullYear();</h2>
+     
+    <h2>return `${days}/${months}/${years}`;</h2>
+    <h2>}</h2>
+     
+    <h2>console.log(formatDate());</h2>
+
     <script src="script.js"></script>
     
 </body>
